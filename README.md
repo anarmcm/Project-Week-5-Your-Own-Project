@@ -26,6 +26,7 @@ I worked with a csv I found in kaggle. The csv contains information on total par
 - Participants
 - % of people who attended more than 50% of the course
 - Total hours
+
 [Dataset](https://www.kaggle.com/edx/course-study)
 
 ## Workflow
